@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: Work I did for myself that others paid me for
+subtitle: Work that pays rent
 layout_style: mosaic
 seo:
   title: Portfolio
