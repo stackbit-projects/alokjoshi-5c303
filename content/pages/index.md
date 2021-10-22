@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Alok'
     content: |
-      I'm a freelance Brand Marketing Consultant
+      I'm a Freelance Marketing Consultant
     actions:
       - label: Let's talk
         url: /contact
