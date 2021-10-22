@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Alok'
+    title: 'Hi, I''m Alok Joshi'
     content: |
       I'm a Freelance Marketing Consultant
     actions:
