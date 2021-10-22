@@ -26,7 +26,7 @@ sections:
         default_value: Please select
         options:
           - Collaboration
-          - null
+          - Error on this site
           - Other
       - input_type: textarea
         name: message
