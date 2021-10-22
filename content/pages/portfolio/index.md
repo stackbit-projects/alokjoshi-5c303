@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: Work that pays rent
+subtitle: Work I did previously with other brands
 layout_style: mosaic
 seo:
   title: Portfolio
